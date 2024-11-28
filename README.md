@@ -1,4 +1,4 @@
-# OOPJ--Assignment-
+# OOPJ--Assignment
 ## Software Requirements
 -> Operating System : Windows
 -> Programming Language : Java 
